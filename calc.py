@@ -1,8 +1,10 @@
 def add (x , y):
-    pass
+    return x + y
 
 def sub (x , y):
-    pass
+    return x - y
+
+    # I have change the code
 
 def multiply (x , y):
     pass
